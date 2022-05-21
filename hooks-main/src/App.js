@@ -17,7 +17,7 @@ function App() {
     {
       id: '1',
       posterURL: 'https://cdn.fstatic.com/media/movies/covers/2019/06/qadfgdf.jpg',
-      title: 'Love Death + Rob',
+      title: 'Love Death + Robots',
       description: 'This collection of animated short stories spans several genres, including science fiction, fantasy, horror and comedy. World-class animation creators bring captivating stories to life in the form of a unique and visceral viewing experience.',
       rating: '8'
     },
